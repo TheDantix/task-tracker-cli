@@ -1,2 +1,3 @@
-# task-tracker-cli
-Simple task tracker and manager in CLI
+# Task Tracker CLI
+
+Project URL: https://roadmap.sh/projects/task-tracker
